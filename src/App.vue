@@ -6,7 +6,7 @@ import { RouterView } from 'vue-router'
   <div id="app">
     <nav>
       <h1>DASHBOARD</h1>
-      <h4>Este Sistema funciona agregando un Estudiante</h4>
+      <h4>Versión Beta</h4>
       <ul>
         <li><Router-link to="/">Inicio</Router-link></li>
         <li><Router-link to="/List">Lista de Estudiantes</Router-link></li>
